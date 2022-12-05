@@ -23,5 +23,5 @@ Stockage :
         Espace libre : 931GB
         Type : disque local
 Réseau :
-    Adresse IP externe : 86.196.190.84
-    Adresse IP Locale  : 192.168.1.10
+    Adresse IP externe : 86.196.190.xxx
+    Adresse IP Locale  : 192.168.1.xxx
