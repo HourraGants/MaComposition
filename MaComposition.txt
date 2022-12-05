@@ -1,0 +1,27 @@
+Processeur :
+    Modèle : AMD Ryzen 5 2600X Six-Core
+    Fréquence : 3,6 Ghz
+Mémoire :
+    Taille : 16 GB
+Système d'exploitation :
+    Nom : Windows 10 Entreprise
+    Version : 21H2
+Stockage :
+    Partition 1 :
+        Nom : C:\
+        Espace total : 111GB
+        Espace libre : 17,3GB
+        Type : disque local (SSD)
+    Partition 2 :
+        Nom : E:\
+        Espace total : 931GB
+        Espace libre : 266GB
+        Type : disque local
+    Partition 3 :
+        Nom : F:\
+        Espace total : 931GB
+        Espace libre : 931GB
+        Type : disque local
+Réseau :
+    Adresse IP externe : 86.196.190.84
+    Adresse IP Locale  : 192.168.1.10
